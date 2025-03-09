@@ -11,6 +11,7 @@ function Login({ handleLogin }) {
     setPassword("");
   };
 
+
   return (
     <div className="flex h-screen w-full justify-center items-center px-4">
       <div className="border-2 border-emerald-400 px-6 py-8 rounded-3xl max-w-md w-full">
